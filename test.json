@@ -4,7 +4,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/Connext",
     "auditors": "auditorOne, auditorTwo"
   },
   {
@@ -12,7 +12,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/EPNS",
     "auditors": "auditorOne, auditorTwo"
   },
   {
@@ -20,7 +20,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/Element%20Finance",
     "auditors": "auditorOne, auditorTwo"
   },
   {
@@ -28,7 +28,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/GSN",
     "auditors": "auditorOne, auditorTwo"
   },
   {
@@ -36,7 +36,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/Ribbon%20Finance",
     "auditors": "auditorOne, auditorTwo"
   },
   {
@@ -44,7 +44,7 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
-    "imgPath": "neki string",
+    "imgPath": "/The%20Graph",
     "auditors": "auditorOne, auditorTwo"
   }
 ]
