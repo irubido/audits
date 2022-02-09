@@ -1,19 +1,21 @@
 [
   {
-    "name": "Element Finance Council",
+    "name": "Connext",
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "Connext",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "Connext-Vector-Audit.pdf"
   },
   {
-    "name": "Element Finance Council",
+    "name": "EPNS",
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "EPNS",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "EPNS-Protocol-Audit-October-2021.pdf"
   },
   {
     "name": "Element Finance Council",
@@ -21,23 +23,26 @@
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "Element_Finance",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "Elf-Council-Audit-October-2021.pdf"
   },
   {
-    "name": "Element Finance Council",
+    "name": "GSN",
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "GSN",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "opengsn-audit-march2021.pdf"
   },
   {
-    "name": "Element Finance Council",
+    "name": "Ribbon Finance",
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "Ribbon_Finance",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "RibbonV2-July-2021.pdf"
   },
   {
     "name": "Element Finance Council",
@@ -45,6 +50,7 @@
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "The_Graph",
-    "auditors": "auditorOne, auditorTwo"
+    "auditors": "auditorOne, auditorTwo",
+    "auditPDFname": "TheGraph-GRTWithdrawHelper-Audit.pdf"
   }
 ]
