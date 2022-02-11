@@ -49,6 +49,15 @@
     "date": "1.1.2020",
     "descriptionShort": "Short description for demo",
     "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
+    "path": "Ribbon-Audit_April-2021",
+    "auditors": "auditorOne, auditorTwo",
+    "sourceCodeUrl": "https://github.com/ChainSafe/chainsafe.io"
+  },
+  {
+    "name": "Ribbon Finance V2",
+    "date": "1.1.2020",
+    "descriptionShort": "Short description for demo",
+    "descriptionLong": "Long description for demo. Long description for demo. Long description for demo. Long description for demo. Long description for demo. ",
     "path": "RibbonV2-July-2021",
     "auditors": "auditorOne, auditorTwo",
     "sourceCodeUrl": "https://github.com/ChainSafe/chainsafe.io"
